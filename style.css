@@ -1,4 +1,4 @@
-/* добавим очистку потока для всех контейнеров, внутри которых задано обтекание дочерних элементов */
+/*123 добавим очистку потока для всех контейнеров, внутри которых задано обтекание дочерних элементов */
 .header_top:after, .divch:after, header:after, .container:after, footer:after, .widget-posts-list li:after, #subscribe:after, .row:after {
 content: "";
 display: table;
